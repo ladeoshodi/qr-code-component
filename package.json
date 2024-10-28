@@ -1,0 +1,11 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "QR Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
