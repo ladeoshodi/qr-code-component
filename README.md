@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ladeoshodi.github.io/qr-code-component/)
+- Live Site URL: [QR code live site](https://ladeoshodi.github.io/qr-code-component/)
 
 ## My process
 
