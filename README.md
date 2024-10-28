@@ -23,8 +23,9 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-<!-- To be updated -->
-<!-- ![](./screenshot.jpg) -->
+![Screenshot Desktop](./build/readme-assets/screenshot-desktop.png)
+
+![Screenshot Mobile](./build/readme-assets/screenshot-mobile.png)
 
 ### Links
 
@@ -39,10 +40,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - TailwindCSS
 - Mobile-first workflow
-
-### What I learned
-
-TBD
 
 ## Author
 
